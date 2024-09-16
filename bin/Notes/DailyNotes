@@ -1,0 +1,48 @@
+Class :
+
+Class is collection of Object /Variables and methods 
+its does not take spaces on memory 
+Class is blueprint/logical entity 
+
+Pre defined :
+EX.
+System
+String 
+Scanner
+
+User defined : created By Java devloper 
+
+EX .HelloWorldTest 
+
+===========================================
+
+Data types : 
+Data types specify diffrent sizes and values that can be stored in the variables 
+
+
+1.Primitive 
+size fixed 
+
+Byte (1 Byte),short (2),int(4),long(8) ,float(4),double(8),boolean(1 Bit),char(2)
+
+2.Non Primitive 
+size is not fixed 
+
+Ex. String ,Arrays ,Class,Interface 
+
+
+syntax :
+
+DataTypes variblename=value;
+
+
+
+
+
+
+
+
+
+
+
+
