@@ -35,6 +35,82 @@ syntax :
 
 DataTypes variblename=value;
 
+=====================================
+Varibles :
+
+Varibles is name of memory location 
+stored any type of values 
+
+int a=10;
+
+Local Varibles :
+----------------
+declare inside the method /method parameters define 
+
+ex. 
+
+public void Display(string a){
+
+   //local varible
+   int a=5;
+}
+
+Static Varibles /class Varibles :
+----------------
+declare with keyword static 
+
+static int a=10;
+
+Instance Varibles/ non static varibles  :
+------------------------
+declare inside the class but outside the methods 
+
+ex .
+
+public class Test {
+
+   int b=10;
+   
+   p.v.m(){
+   
+   
+   }
+
+}
+
+======================================
+Operators :
+
+Arthmatic : +,-,*,%,/
+
+int a=5;
+int b=7;
+
+int c=a+b; //5+7=12
+  c=a-b // 5-7=-2
+  c=a*b //5*7=35
+  c=b%a =7%5 =2 
+
+Logical :  && , || ,!
+
+a>b && b<c
+
+T && T =T
+T && F=F
+F && T=F
+F && F=F
+
+T || T =T
+T || F =T
+F || T =T
+F || F= F
+
+!(T)=F
+!(F)=T
+
+Assigment : 
+Comparison :
+Bitwise :
 
 
 
