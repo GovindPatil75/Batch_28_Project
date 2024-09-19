@@ -112,6 +112,87 @@ Assigment :
 Comparison :
 Bitwise :
 
+====================================
+Comparison : >,<,>=,<=,==
+
+int a=5;
+int b=7;
+
+a>b  // 5>7 ---boolean value true/false
+
+==================================================
+
+Object : 
+
+class HumanBeing -- Object --- Sumit 
+
+class Animal -- Object -- Tiger 
+
+Object is Instance of class /sub set of class 
+execute class 
+create --- object memory allocate 
+
+synatx :
+
+ClassName Objectname=new ClassName();
+
+// non static -instance varible 
+
+
+Method : 
+===============
+
+group of code / block of code --- user input -- process --- output 
+
+execute when -its called 
+
+static /non -static method 
+
+pre defined : main() ,println(),sort()
+user defined : java devloper created 
+
+syntax :
+non static 
+
+Access_modifier returntype methodname(){
+
+// code 
+}
+
+static 
+Access_modifier static returntype methodname(){
+
+// code 
+}
+
+public void Demo(){
+
+//code 
+}
+
+Advantages method :
+Reusablebilty of the code 
+line of code decrease 
+Readiability / process fast 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
