@@ -174,7 +174,16 @@ Advantages method :
 Reusablebilty of the code 
 line of code decrease 
 Readiability / process fast 
+========================================
+Access Modifier :
 
+Restrict the scope of Class,Constructor ,Varibles ,Method 
+its provides security and accessibility 
+
+Public   :  class ,Same packages ,diffrent packages subclass ,world 
+Protected : class ,Same pkg ,diffrent pkg with subclass ,world-N
+Private : class 
+deafult (No modifier) : class ,Same Pkg 
 
 
 
