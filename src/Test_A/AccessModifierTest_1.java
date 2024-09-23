@@ -21,6 +21,9 @@ public class AccessModifierTest_1 extends Test_AccessModifier_B{
  		//System.out.println(test4.i); //deafult
 		
 		
+		
+		
+		
 	}
 
 }

@@ -185,12 +185,54 @@ Protected : class ,Same pkg ,diffrent pkg with subclass ,world-N
 Private : class 
 deafult (No modifier) : class ,Same Pkg 
 
+================
+Control Statements 
+
+we control the program execution 
+
+Conditional Statments/Selectional Statments 
+-----------------------
+
+1.if(condition){
+
+}
+
+2.if(condition){
+
+}else{
+
+}
+3.if-else -if
+----------------
+if(condition){
+
+}
+else if(condition){
 
 
+}else{
+
+}
+4.nested if 
+------------------
+if(Condition){
+
+  if(condition){
+  
+  }
+
+}
+
+Switch case :
 
 
+Looping Statments 
+---------------------
+for,while,do-while 
 
-
+Jump Statments :
+------------------------
+break,continue,return
 
 
 
