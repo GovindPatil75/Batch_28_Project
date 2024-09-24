@@ -48,9 +48,11 @@ public class Session_J7 {
     	  else {
     		  System.out.println("False case ");
     	  }
-    	  
+    	
       }
-      
+      else {
+    	  System.out.println("Parent case false");
+      }
       
 	}
 

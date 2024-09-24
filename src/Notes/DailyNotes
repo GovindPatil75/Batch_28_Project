@@ -226,10 +226,42 @@ if(Condition){
 Switch case :
 
 
-Looping Statments 
+Looping Statments :
+---------------------
+Statments iterate itself 
 ---------------------
 for,while,do-while 
 
+syntax :
+
+for(initilization;condition;incre/decre){
+
+  //code -statments 
+}
+
+while
+
+syntax :
+
+initlization 
+
+while(condition){
+
+ //statment ;
+ //inc/dec
+}
+print no 1-10 -console 
+
+
+do--while
+
+initlization
+do{
+
+//statments
+//inc/dec
+
+}while(condition)
 Jump Statments :
 ------------------------
 break,continue,return
