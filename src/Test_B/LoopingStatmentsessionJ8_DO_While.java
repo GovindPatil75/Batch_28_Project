@@ -4,13 +4,14 @@ public class LoopingStatmentsessionJ8_DO_While {
 
 	public static void main(String[] args) {
 		
-		int j=1;
+		int j=10; // initilization 
 		
 		do {
-			System.out.println(j);
-			j++;
-		}while(j<=10);
+			System.out.println(j); // 1 2 3 4 5  6 10
+			j--; //2 3 4 5 6  7
+		}while(j>=0);
 
+		
 	}
 
 }
