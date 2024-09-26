@@ -262,7 +262,25 @@ do{
 //inc/dec
 
 }while(condition)
+
+
 Jump Statments :
+===============
+break :   looping statment,switch case
+continue : looping statment
+return : Method 
+
+*
+**
+***
+****
+
+
+
+
+
+
+
 ------------------------
 break,continue,return
 
