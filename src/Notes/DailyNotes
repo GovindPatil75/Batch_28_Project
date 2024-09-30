@@ -283,6 +283,29 @@ return : Method
 
 ------------------------
 break,continue,return
+==========================================
+String : 
+--------------
+- non-primitive data type -- sized not fixed 
+- sequence of character / Array of Character 
+- String is class 
+
+note : Object class is the parent class in Java 
+syntax :
+public final class String extends Object implements 3 interface{
+
+ // methods 
+ // code
+
+}
+
+String s1=new String("Test"); // new keyword --2 object
+String s2="Demo" ;    // String literalls -- 1
+
+Heap memory --- SCP (String contant pool area)
+
+
+ 
 
 
 
