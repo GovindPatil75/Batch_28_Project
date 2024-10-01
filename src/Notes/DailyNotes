@@ -304,9 +304,23 @@ String s2="Demo" ;    // String literalls -- 1
 
 Heap memory --- SCP (String contant pool area)
 
+String s1=new String("Demo");
+String s2=new String("Demo"); 
 
+s1==s2 - false
+s1.equals(s2)-- true
+Heap memory -- Demo--S1
+               Demo--s2
+               
+SCP --
+
+ String str1="Hello";
+ String str2="hello";
  
+ str1.equals(str2); //false
+======================================
 
+length(); --- string length --int 
 
 
 

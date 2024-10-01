@@ -22,6 +22,9 @@ public class Session_string_1 {
 		// ==  refrence comparision - s1==s3 /s1==s4
 		System.out.println(s1==s3);
 		System.out.println(s1==s4);
+		
+		System.out.println(s1.equals(s2));
+		System.out.println(s1.equals(s4));
 	}
 
 }
