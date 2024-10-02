@@ -41,7 +41,7 @@ public class StringMethods {
 			System.out.println("Test case fail");
 		}
 		
-		//startWith()
+		//startsWith()
 		if(filepath.startsWith("file")) {
 			System.out.println("Test pass");
 		}
@@ -53,10 +53,10 @@ public class StringMethods {
 		
 		String mob="123456@56789";
 		
-		//String []
+		//split()
 		String [] a=mob.split("@"); //substring divide
-		System.out.println(a[0]);
-		System.out.println(a[1]);
+		System.out.println(a[0]); //123456
+		System.out.println(a[1]); //56789
 		
 		
 	}
