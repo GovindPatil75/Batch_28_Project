@@ -322,10 +322,65 @@ SCP --
 
 length(); --- string length --int 
 
+===============================
+String object is immutable 
 
 
+String s1="Pune"; // SCP --- Pune <--- s1
+String s2="Pune"; 
 
+String s2="Delhi" // Delhi <---s2
 
+====================================
+Revrese string program :
+----------------------
+String name ="Hello world";
+String rev="";
+
+========================================
+OOPs Concepts 
+
+4 pillars
+------------------------
+1.Inheritance
+2.Polymorphism
+3.Abstarction
+4.Encapsulation 
+
+Inheritance
+-----------------------
+Mechanism child class inherit the property (Fields ,methods )
+ of parent class 
+ 
+ Parent class : whose property inherited 
+ Child class : who inherit the property of parent class 
+
+why do we need Inheritance : 
+
+1. code reusability 
+2.method overriding 
+3.Abstarction 
+
+extends : C -extends-- C
+
+Types of Inheritance :
+
+1.single level Inheritance :
+
+A --> B
+single parent class inherit single child class 
+
+2.Multilevel Inheritance :
+
+A--->B---->C
+
+Parent_A  --> a,m1()
+Child_B extends Parent_A ---> name ,p1() ,a,m1()
+Child_C extends Child_B  ->name ,p1() ,a,m1()
+
+3.Hierachical Inheritance
+4.Multiple Inheritance
+5.Hybrid Inheritance
 
 
 
