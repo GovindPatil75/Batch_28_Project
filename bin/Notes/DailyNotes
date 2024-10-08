@@ -378,10 +378,55 @@ Parent_A  --> a,m1()
 Child_B extends Parent_A ---> name ,p1() ,a,m1()
 Child_C extends Child_B  ->name ,p1() ,a,m1()
 
-3.Hierachical Inheritance
-4.Multiple Inheritance
+3.Hierachical Inheritance:
+
+multiple child classes inherit single parent class 
+
+X-->Y,Z
+4.Multiple Inheritance :
+
+multiple parents inherited by single child 
+
+A (m1()),B (m1()) ---> C
 5.Hybrid Inheritance
 
+A-->B,C --->D
+
+==========================================
+Polymorphism :one of Many form
+--- one object with diffrent behaviour --
+person ---> Teacher ,Customer ,Actor
+water --> solid,liquid,gas 
+
+public void person(teacher ){
+
+//code
+}
+public void person(Actor ){
+
+//code
+}
+
+Types :
+1.Compile time polymorphism
+----------------------
+static polymorphism --- handle by Compiler 
+Acheive by using -- Method Overloading 
+
+2.Run time polymorphism :
+----------------------
+dynamic polymorphism -- handle by JVM
+Acheive by using -- Method Overriding 
+
+==============
+Method Overloading :
+
+-- same class 
+-- same method name 
+-- diffrent arguments 
+    type of arguments 
+    sequence of arguments 
+    no of argumnets 
 
 
 

@@ -1,5 +1,7 @@
 package Inheritance;
 
-public class Y {
+public class Y extends X{
+	
+	public int b=5;
 
 }

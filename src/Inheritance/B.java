@@ -1,6 +1,6 @@
 package Inheritance;
 
-public class B extends A{
+public class B {
 	
 	public String email="Test@gmail.com";
 	
