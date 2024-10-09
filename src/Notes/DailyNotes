@@ -428,10 +428,19 @@ Method Overloading :
     sequence of arguments 
     no of argumnets 
 
+Method Overriding 
+
+ --- diffrent classes
+ ---method name same
+ ---arguments same 
+    type of arguments
+    sequence of arguments
+    no of arguments
+---- Is-A relationship (Inheritance)    
 
 
-
-
+C -extends -C 
+C -Implemnts -I
 
 
 

@@ -34,6 +34,9 @@ public class Test_1 {
     	System.out.println("Test m2");
     }
     
+    public static void main(int a) {
+    	System.out.println("Main method with a arg");
+    }
     
 	public static void main(String[] args) {
 		
