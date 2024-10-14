@@ -442,6 +442,30 @@ Method Overriding
 C -extends -C 
 C -Implemnts -I
 
+===================================
+Encapsulation : 
+
+Mechanism in which varibles and methods are bind together
+in single Unit (Class)
+
+Class can hide data from other classes 
+
+How to acheive Encapsulation : 
+-------------------------
+1.we declare varible/attribute  as private  (Data Hiding)
+2.Public getter and setter -- to view and to modify the value of varibles
+
+Advnatge :
+------------
+data secuity 
+read-write only 
+add more control to the program 
+
+
+
+
+
+
 
 
 
