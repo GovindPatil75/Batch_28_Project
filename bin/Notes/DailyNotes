@@ -461,9 +461,33 @@ data secuity
 read-write only 
 add more control to the program 
 
+======================================
+Abstraction : 
 
+hiding the internal implementation and showing the 
+required functionality /services to the user
 
+Ex. ATM Machine 
+    Car 
+    
+    How we acheive Abstraction :
+    
+    1. Abstract class -- 0 %-100 % 
+    2. Interface      -- 100 % 
 
+Abstract Class :
+--------------------
+- Abtsract class provides 0-100 % Abtraction 
+-abstrct methods(without body) and concreate methods (with body)
+-can not instnstiate // we can not create the object of Abstract class
+
+- Class -- 1 Abstract methods -- Class Abstract 
+- we can create abstrcat class with all Concreate methods /all methods
+abstrct methods 
+
+- we can not implements multiple inheritance 
+
+- varibles -- final,non-final ,static ,non-static 
 
 
 
