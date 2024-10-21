@@ -490,11 +490,25 @@ abstrct methods
 - varibles -- final,non-final ,static ,non-static 
 
 
+Interface :
+----------------
+provide abstraction 100 % 
+methods ----> all methods abstract methods 
+All are unimplemented /without body 
 
+Class provides the body to the methods
 
+Class A implements I1
 
+Deafult --- public abstract 
 
+we can not create the object of interface 
+Interface - we can acheive multiple inheritance 
 
+Class A Implements I1,I2
 
+we can create static and default method as with body in the interface 
 
+===============================
 
+Seachcontext (I) ---WebDriver(I) ----RemoteWebDriver(C) ---MultipleBrowser (C) driver
